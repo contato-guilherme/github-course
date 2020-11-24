@@ -1,4 +1,4 @@
-Git Course sdfsdfsd
+Git Course para iniciantes (UDEMY)
 
 Repositório teste para o curso
 
