@@ -1,9 +1,5 @@
-Git Course
+Git Course sdfsdfsd
 
 Repositório teste para o curso
 
-Saiba mais kkjj
-
-Uau
-
-Que curso dahoras
+Aluno Guilherme Sena de Oliveira	
